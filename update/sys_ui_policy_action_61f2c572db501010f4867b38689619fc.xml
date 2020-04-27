@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>state</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 11:23:46</sys_created_on>
+        <sys_id>61f2c572db501010f4867b38689619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="NeedIT" source="x_363755_needit">c08b8568db945010f4867b38689619c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIT">c08b8568db945010f4867b38689619c6</sys_scope>
+        <sys_update_name>sys_ui_policy_action_61f2c572db501010f4867b38689619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 11:23:46</sys_updated_on>
+        <table>x_363755_needit_needit</table>
+        <ui_policy display_value="Make fields readonly once the status is closed">6c024932db501010f4867b386896190f</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
